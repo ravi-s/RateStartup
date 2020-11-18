@@ -1,0 +1,10 @@
+# Business Solution Assessment
+1. How do you plan to solve the pain point?
+2. Is there a  solution to the problem?
+3. How have customers solved it?
+4. How have other solution providers solved it?
+5. How do we know the solution solves the pain point?  
+    5.1 What are key metrics that ties the solution to the problem?
+6. Does the solution solve the problem completely? or partly?
+7. Is it fully automatable or not?
+8. If the solution is not fully automatable, why is the your solution better than what is available?
