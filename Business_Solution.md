@@ -8,3 +8,9 @@
 6. Does the solution solve the problem completely? or partly?
 7. Is it fully automatable or not?
 8. If the solution is not fully automatable, why is the your solution better than what is available?
+9. What are the key customer metrics to evaluate the solution?
+10. Why would they buy?
+11. What is your revenue model?
+12. How much will customers pay?
+13. What are the customer metrics to help you if you are on the right direction?
+14. Why would customers not buy?
