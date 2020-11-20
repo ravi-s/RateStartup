@@ -9,6 +9,9 @@
 - Why would they pay? 
 - What is the value that they see in buying?
 - What is the TAM, SAM, SOM?  
+- What is the customer acquisition cost? 
+- Is customer growth organic? If yes, how?
+
 ---
 Reference:  
 [TAM, SAM, SOM](https://www.thebusinessplanshop.com/blog/en/entry/tam_sam_som)
