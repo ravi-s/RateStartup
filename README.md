@@ -5,7 +5,7 @@ Assess a potential fund seeking venture on their strength, weakness, opportuniti
 This should help one to assess the strength of a venture broadly as either **Strong, Average or Weak.**
 
 ## Methodology
-Combination process of using questionnaire, direct interaction on various assessment dimensions to 
+Combination process of using questionnaire, direct interaction on various assessment dimensions to evaluate the core reasons for recommendation to fund or not.
 
 ## Assessment Dimensions
 1. Founders
