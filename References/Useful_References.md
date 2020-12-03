@@ -3,6 +3,10 @@
 2. [Valuing Startup Ventures Guide](https://www.investopedia.com/articles/financial-theory/11/valuing-startup-ventures.asp)
 
 ## Videos  
+
+### Startup Landscape in India
+
+-[Startups and Entrepreneurship](https://www.youtube.com/watch?v=aWox3iNvlpE)
 ### Fintech
 - [Future of Fintech- VC Perspective](https://www.youtube.com/watch?v=KcRH5P4f2qg&t=131s)
 - [Top 10 Fintech Startups](https://www.youtube.com/watch?v=XoNVK0-NKHc)
