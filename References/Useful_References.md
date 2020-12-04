@@ -3,7 +3,7 @@
 2. [Valuing Startup Ventures Guide](https://www.investopedia.com/articles/financial-theory/11/valuing-startup-ventures.asp)
 
 ## Education Sector
-- [2020 List of education startups](https://www.startuptalky.com/top-edtech-startups-india/)
+1. [2020 List of education startups](https://www.startuptalky.com/top-edtech-startups-india/)
 
 ## Videos  
 
