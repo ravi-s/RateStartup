@@ -13,5 +13,8 @@
 
 ### Fintech
 - [Future of Fintech- VC Perspective](https://www.youtube.com/watch?v=KcRH5P4f2qg&t=131s)
-- [Top 10 Fintech Startups](https://www.youtube.com/watch?v=XoNVK0-NKHc)
+- [Top 10 Fintech Startups](https://www.youtube.com/watch?v=XoNVK0-NKHc)  
+
+### Education/Edutech
+- [Education Space US Perspective - part-1 ](https://www.youtube.com/watch?v=Ylr7A1Gk0Bg)
 
