@@ -17,4 +17,6 @@
 14. Why would customers not buy?
 
 ## Business Model
+- What is the core of the product or service? 
+> Everything else you should be willing to give away free.
 - Is your model product-based or service-based?
