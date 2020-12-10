@@ -10,7 +10,12 @@
    2. Why did you choose this stack?
    3. What are the alternative stacks? (***provoke thinking***)
 3. Business Risks
+   1. What are the business model risks? 
+   2. What are the metrics to track the risk?
+   3. What is the mitigation plan?
+   
   > Micro-lending business for startups is overcrowded with many startups such as Indifi, Aye Finance, Capital Float, Ziploan. 
+  
 4. Marketing Risks
 
 > Note: Generic startup risks apply nonetheless.
