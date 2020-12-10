@@ -1,4 +1,5 @@
 # Business Solution Assessment
+## Common questions
 1. How do you plan to solve the pain point?
 2. Is there a  solution to the problem?
 3. How have customers solved it?
@@ -14,3 +15,6 @@
 12. How much will customers pay?
 13. What are the customer metrics to help you if you are on the right direction?
 14. Why would customers not buy?
+
+## Business Model
+- Is your model product-based or service-based?
