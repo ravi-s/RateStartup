@@ -13,6 +13,8 @@
    1. What are the business model risks? 
    2. What are the metrics to track the risk?
    3. What is the mitigation plan?
+   4. What is the innovation?
+   5. Where is the innovation?
    
   > Micro-lending business for startups is overcrowded with many startups such as Indifi, Aye Finance, Capital Float, Ziploan. 
   
