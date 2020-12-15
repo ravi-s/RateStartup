@@ -19,3 +19,6 @@
 - [Education Space US Perspective - part-1 ](https://www.youtube.com/watch?v=Ylr7A1Gk0Bg)
 - [Know about China startups](https://www.youtube.com/watch?v=glIC16sCakI)
 
+### Insurance
+- [Insuretechs WILL NOT DISRUPT the insurance industry](https://youtu.be/TlaYD5Yb2gQ)
+
