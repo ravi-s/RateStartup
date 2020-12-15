@@ -15,8 +15,9 @@
 - Marketing an insurance product or service unlike other fintech business is difficult and challenging.
 
 ### Key questions
-- What is the marketing strategies?
+- What are the marketing strategies?
 - How would you implement them?
 - How will you measure success or failure?
+- What is your take on partnering with incumbent players in the industry?
 
 > Note: Generic startup risks apply nonetheless.
