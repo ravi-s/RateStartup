@@ -5,6 +5,9 @@
 ## Education Sector
 1. [2020 List of education startups](https://www.startuptalky.com/top-edtech-startups-india/)
 
+## Insurance Sector
+[Emerging Trends in the Insurance Sector](https://nuvento.com/blog/digital-trends-and-disruption-in-the-insurance-sector/)
+
 ## Videos  
 
 ### Startup Landscape in India
