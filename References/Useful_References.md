@@ -1,6 +1,7 @@
 # Information gleaned from the world wide web
 1. [4-Valuation Methods](https://www.seedrs.com/academy/4-valuation-methods-used-by-vcs-and-angels/)  
 2. [Valuing Startup Ventures Guide](https://www.investopedia.com/articles/financial-theory/11/valuing-startup-ventures.asp)
+3. [The 5 things that kill startups after seed rounds](https://youtu.be/Dgmmje5WHWA)
 
 ## Education Sector
 1. [2020 List of education startups](https://www.startuptalky.com/top-edtech-startups-india/)
