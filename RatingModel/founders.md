@@ -18,7 +18,7 @@
   3.1 Complementary skills are overlapping. **Risk: +0 or +1**
 4. Distinct complementary skills. **Risk: -1**
 5. Missing complementary skills. **Risk: +0 or +1**
-6. Founders have both technical and business skills collectively. **Risk: -2**
+6. Founders have both technical and business skills collectively. **Risk: -2**  
   6.1 Non-verifiable? **Risk: +1**
-7. Founders have strong technical and weak business skills or vice-versa. **Risk: -1**
-   7.2 Non-verifiable? **Risk: +1**
+7. Founders have strong technical and weak business skills or vice-versa. **Risk: -1**  
+   7.1 Non-verifiable? **Risk: +1**
