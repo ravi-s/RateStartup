@@ -18,7 +18,7 @@
 - What are the macro-economic risks?
 - What are the risks due to regulator, legal and government policies?
 - What are the startup environment risks?  
-## Domain Risks
+## Domain Problem Risks
 - What are the problem domain risks?
 - What are the technology domain risks?
 - What are the customer risks?
