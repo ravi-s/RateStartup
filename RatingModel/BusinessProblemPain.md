@@ -22,7 +22,7 @@
 3. Organic growth of customers. **Risk: -2**
 4. CAC costs high or not known. **Risk: +1**
 5. Overall customer market size estimated. **Risk: -1**
-6. Overall customer market size unknown. **Risk: +2 **
+6. Overall customer market size unknown. **Risk: +2**
 7. Expected Market penetration estimate researched. **Risk: -1**'
 8. Customer tracking metrics available.  **Risk: -1**
 9. Customer tracking metrics unavailable. **Risk: +2**
