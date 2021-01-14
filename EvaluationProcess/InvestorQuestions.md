@@ -4,17 +4,21 @@
 **1. What is the market potential for your company's product or service offering(s)? 
 What is the revenue potential for the industry, and what is its growth rate?**
 
-The investor wants to quickly ascertain whether the opportunity is large enough to pursue. What determines if the opportunity is large enough? Typically, it hinges on whether or not the investor will be able to achieve a healthy return within a designated timeframe (often three to five years). While all firms have different investment criteria, many investors are looking for an opportunity that will yield an ROI of 50 percent or more. To achieve that significant bogy, investors look for companies with considerable market potential for their products or services (often $500 million, $1 billion or more). All investors prefer growing markets to retrenching ones. Also, many investors focus on specific industries, so they&#39;ll be trying to ascertain whether this deal is within their bailiwick.
+The investor wants to quickly ascertain whether the opportunity is large enough to pursue.   
+What determines if the opportunity is large enough?  While all firms have different investment criteria, 
+many investors are looking for an opportunity that will yield an ROI of 50 percent or more. 
+To achieve that significant bogy, investors look for companies with considerable market potential for their products or services (often $500 million, $1 billion or more).  
+All investors prefer growing markets to retrenching ones. Also, many investors focus on specific industries, so they will be trying to ascertain whether this deal is within their focus areas.
 
 **2. How did you calculate market potential? How do you determine industry sales and growth rate?**
 
-It is all too common for entrepreneurs to include very large market potential figures in their business plans and then indicate that they require only a miniscule fraction (e.g. one percent) of the market to achieve their revenue projections. These figures are often very suspect. If the company is capturing such a miniscule fraction of the market, then what is so special about it? What is its real value and position relative to the competition? INVESTORs typically prefer companies that are trying to be the leader in a particular segment. Finally, market potential estimates should be supported by independent research as well as bottom-up or top-down calculations.
+What is its real value and position relative to the competition? Investors typically prefer companies that are trying to be the leader in a particular segment. Finally, market potential estimates should be supported by independent research and internal calculations.
 
 **3. What makes your business different or unique?**
 
-This question can have two wrong answers. That&#39;s because a business can be both too common and too unique for a particular investor. If it&#39;s too common, the investor will be concerned with the competition and the lifecycle of the business. If it&#39;s too unique, the investor will be concerned with the time required to achieve critical mass. Many truly revolutionary products require educating the marketplace, and that can be an uncertain and lengthy undertaking.
+This question can have two wrong answers. That iss because a business can be both too common and too unique for a particular investor. If it is too common, the investor will be concerned with the competition and the lifecycle of the business. If it is too unique, the investor will be concerned with the time required to achieve critical mass. Many truly revolutionary products goes through a long time cycle to achieve scale.
 
-**4. Why would someone be &quot;compelled&quot; to purchase your product or service? What specific needs does it address?**
+**4. Why would someone be compelled to purchase your product or service? What specific needs does it address?**
 
 Investors look for businesses with products or services that address a demonstrable market need or demand. Is your product something the buyer needs? Or is it simply something that would just be nice to have? If it falls in the latter category, then it is critical to demonstrate how your product will gain traction, that is, how people will come to demand it based on market trends.
 
@@ -23,8 +27,9 @@ Investors look for businesses with products or services that address a demonstra
 Investors want to know how you &quot;drew down&quot; your revenue estimates from the market potential figures (which hopefully include estimates from external sources). Ultimately, they want to see a large growth opportunity that scales quickly, thereby allowing them to realize the payoff on their investment as soon as possible. Be prepared to explain in detail the process you used to estimate revenues from market potential.
 
 **6. What is it about your management team that makes them uniquely capable of executing on this business plan?**
-
-You&#39;ve probably heard that the three most important things in private equity investing are management, management and management. More specifically, Investors are typically looking for three things in management: Experience in building a business, experience in the industry (or with the product) and strong character. What comprises the latter? Investors look for managers who demonstrate high energy or passion, resourcefulness, integrity, perseverance, risk-taking ability and mental horsepower. Also, a frequently overlooked quality is that of humility -- for example, sometimes founders may need to step aside and let someone with more experience lead the company.
+Investors are typically looking for three things in management: Experience in building a business, experience in the industry (or with the product) and strong character.  
+What comprises the latter? Investors look for managers who demonstrate high energy or passion, resourcefulness, integrity, perseverance, risk-taking ability and mental horsepower.  
+Also, a frequently overlooked quality is that of humility -- for example, sometimes founders may need to step aside and let someone with more experience lead the company.
 
 **7. What are the primary risks facing this opportunity?**
 
