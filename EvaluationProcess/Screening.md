@@ -15,7 +15,7 @@
 
 4. Who are your customers and why are they your customers?
 
-5. If we are your customers, what should I buy and why should I buy?
+5. If we are your customers, what should we buy and why should we buy?
 
 6.  How would you delight your customers?
 
