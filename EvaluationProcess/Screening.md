@@ -17,7 +17,7 @@
 
 5. If we are your customers, what should we buy and why should we buy?
 
-6. How would you delight your customers?
+6. How do you delight your customers?
 
 7. If there was unlimited funds available to invest and unlimited companies vying for it, what do we suggest we do to help you?
 
